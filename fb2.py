@@ -25,7 +25,7 @@ print('\n\tPlease install mechanize.\n')
 sys.exit()
 
 print('\n---------- Welcome To BAD HACKER ----------\n')
-file=open(''bad list1','bad list0','r')
+file=open(''bad list1','r''bad list0','r')
 
 email=str(raw_input('Enter Email/Username : ').strip())
 
